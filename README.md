@@ -1,4 +1,4 @@
-﻿# TranDangKhoaTechnology Control Deck
+﻿# TranDangKhoaAutomation Control Deck
 
 Project này là một bộ điều khiển hoàn chỉnh cho hệ truyền động 4 động cơ, gồm:
 - app desktop điều khiển và giám sát
